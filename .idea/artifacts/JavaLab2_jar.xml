@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact name="JavaLab2:jar">
+  <artifact build-on-make="true" name="JavaLab2:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/JavaLab2_jar</output-path>
     <root id="root">
       <element id="archive" name="JavaLab2.jar">
